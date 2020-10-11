@@ -9,3 +9,8 @@ void Sum()
 {
 
 }
+
+void Mul()
+{
+
+}
